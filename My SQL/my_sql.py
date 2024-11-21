@@ -8,27 +8,23 @@ import sys
 import time
 import random
 
-#clear line function
 def clear_lines(num_lines):
     for _ in range(num_lines):
         sys.stdout.write("\033[F")  # Move cursor up one line
         sys.stdout.write("\033[K")  # Clear the line
     sys.stdout.flush()
 
-#all clear functions
 def clear():
     if os.name == 'nt':
         _ = os.system('cls')
 
-#database connector
 db = sql.connect(
     host = "localhost",
     user = "root",
-    password = "@alok123",
-    database = "alok"
+    password = "@shiksha04",
+    database = "shiksha"
 )
 
-#database connector cursor
 cur = db.cursor()
 
 #global values
