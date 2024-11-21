@@ -1,0 +1,120 @@
+Which of the following is the correct syntax to declare a pointer in C++?
+int *ptr;
+int ptr*;
+*int ptr;
+ptr int*;
+int *ptr;
+Which C++ keyword is used to define a constant?
+constant
+const
+define
+static
+const
+Which operator is used to access the members of a structure through a pointer in C++?
+->
+.
+::
+&
+->
+Which of the following is a correct comment in C++?
+// Comment
+/* Comment
+# Comment
+<!-- Comment -->
+// Comment
+Which of the following is used to define a class in C++?
+class
+struct
+object
+template
+class
+What is the size of a double in C++?
+4 bytes
+8 bytes
+16 bytes
+depends on the compiler
+8 bytes
+Which of the following is the correct syntax to create an object in C++?
+ClassName object;
+object ClassName;
+ClassName = object;
+ClassName::object;
+ClassName object;
+Which C++ keyword is used to allocate memory dynamically?
+malloc
+alloc
+new
+create
+new
+Which of the following is the correct way to declare a constructor in C++?
+ClassName();
+void ClassName();
+constructor ClassName();
+function ClassName();
+ClassName();
+Which of the following access specifiers is the most restrictive in C++?
+private
+protected
+public
+internal
+private
+Which of the following is used to terminate a loop in C++?
+break
+continue
+exit
+stop
+break
+Which function is used to write formatted output to the console in C++?
+cout
+printf
+cin
+puts
+cout
+Which of the following is used to define a function outside of a class in C++?
+::
+.
+->
+&
+::
+Which of the following data types stores a single character in C++?
+char
+string
+int
+float
+char
+Which of the following C++ containers automatically grows in size?
+vector
+array
+queue
+stack
+vector
+Which C++ keyword is used to prevent a class from being inherited?
+final
+const
+protected
+sealed
+final
+Which of the following is used to handle exceptions in C++?
+try-catch
+if-else
+throw-catch
+catch-finally
+try-catch
+Which of the following allows a class to inherit the properties of another class in C++?
+Inheritance
+Abstraction
+Polymorphism
+Encapsulation
+Inheritance
+Which operator is used to check if two values are equal in C++?
+==
+=
+=>
+<=
+==
+Which of the following is not a C++ keyword?
+private
+this
+struct
+integer
+integer

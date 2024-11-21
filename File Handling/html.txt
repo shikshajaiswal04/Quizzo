@@ -1,0 +1,120 @@
+Which HTML tag is used to create a hyperlink?
+<link>
+<a>
+<href>
+<hyperlink>
+<a>
+Which HTML tag is used to define an image?
+<img>
+<src>
+<picture>
+<image>
+<img>
+Which HTML element is used to specify a footer for a document?
+<footer>
+<bottom>
+<foot>
+<footersection>
+<footer>
+What is the correct HTML tag for inserting a line break?
+<br>
+<break>
+<lb>
+<hr>
+<br>
+Which tag is used to define the largest heading?
+<h1>
+<h6>
+<heading>
+<head>
+<h1>
+What is the correct HTML for creating an ordered list?
+<ul>
+<ol>
+<list>
+<order>
+<ol>
+What is the correct HTML for creating a checkbox?
+<input type='checkbox'>
+<check>
+<checkbox>
+<input type='check'>
+<input type='checkbox'>
+How can you create a numbered list in HTML?
+<dl>
+<ul>
+<ol>
+<li>
+<ol>
+Which attribute specifies an alternate text for an image, if the image cannot be displayed?
+alt
+title
+src
+href
+alt
+What is the correct way to open a link in a new tab?
+<a href='url' target='_blank'>
+<a href='url' new_tab='true'>
+<a href='url' new='yes'>
+<a href='url' target='new'>
+<a href='url' target='_blank'>
+Which HTML element is used to define the title of a document?
+<meta>
+<title>
+<header>
+<head>
+<title>
+Which HTML tag is used to make text bold?
+<bold>
+<b>
+<strong>
+<em>
+<b>
+Which tag is used to define a table row in HTML?
+<tr>
+<td>
+<th>
+<row>
+<tr>
+Which HTML tags are used to create a drop-down list?
+<select>
+<list>
+<dropdown>
+<input>
+<select>
+Which tag is used to define a table header in HTML?
+<th>
+<tr>
+<td>
+<header>
+<th>
+Which attribute is used to specify the URL of the linked document in an anchor tag?
+href
+src
+link
+url
+href
+Which tag is used to create a section within an HTML document?
+<div>
+<section>
+<header>
+<article>
+<section>
+What is the correct syntax for creating a radio button in HTML?
+<input type='radio'>
+<radio>
+<input type='button'>
+<input type='option'>
+<input type='radio'>
+Which HTML element is used to embed videos in a web page?
+<video>
+<media>
+<embed>
+<source>
+<video>
+Which HTML element is used to group multiple form elements together?
+<fieldset>
+<form>
+<legend>
+<group>
+<fieldset>

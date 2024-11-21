@@ -1,0 +1,121 @@
+Which of the following is the correct extension of a Python file?
+.python
+.pl
+.py
+.p
+.py  
+Which keyword is used for function in Python?
+define
+function
+define
+def
+def
+What is the output of print(type([]))?
+<class 'list'>
+<class 'tuple'>
+<class 'set'>
+<class 'dict'>
+<class 'list'>
+What is the output of print(2**3)?
+6
+8
+9
+12
+8
+Which of the following functions can be used to find the length of a string in Python?
+len()
+length()
+size()
+count()
+len()
+Which of the following is NOT a valid Python data type?
+List
+Tuple
+Class
+Stack
+Stack
+Which function is used to convert a string into a list of words in Python?
+split()
+join()
+replace()
+cut()
+split()
+What will be the output of : print(bool(0))?
+True
+False
+Error
+None
+False
+What does the following expression evaluate to in Python : not True?
+True
+False
+Error
+None
+False
+Which of the following statements is used to stop a loop in Python?
+exit
+break
+quit
+stop
+break
+Which of the following is a mutable data type in Python?
+Tuple
+List
+String
+Integer
+List
+Which of the following methods can be used to combine two lists in Python?
+append()
+extend()
+merge()
+insert()
+extend()
+Which of the following methods removes an element from a list by value in Python?
+remove()
+pop()
+delete()
+discard()
+remove()
+What is the output of the following code?
+3.33
+3
+4
+3.0
+3
+What will be the output of the following code : print(2**2**3)
+16
+64
+256
+512
+256
+Which of the following is used to delete a variable in Python?
+del
+remove
+discard
+pop
+del
+Which of the following methods can be used to add an element to the end of a list?
+add()
+insert()
+append()
+update()
+append()
+Which of the following functions is used to return the maximum value from a list in Python?
+max()
+min()
+len()
+sum()
+max()
+Which of the following methods can be used to create a shallow copy of a list?
+copy()
+deepcopy()
+duplicate()
+clone()
+copy()
+Which of the following can be used to find the type of an object in Python?
+object_type()
+typeof()
+type()
+gettype()
+type()     
+   
